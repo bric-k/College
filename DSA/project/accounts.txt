@@ -1,0 +1,42 @@
+Name: a
+Address: a
+Phone number: 1234
+Password: 1
+Account number: cd
+Balance: "c:\Users\øþa
+
+Name: ;
+Address: if
+Phone number: ($?)
+Password: {
+Account number: gcc
+Balance: miniprojecøþa
+
+Name: o
+Address: miniprojectfinale
+Phone number: }
+Password: ;
+Account number: if
+Balance: ($?)
+
+Name: qwrrt
+Address: qwertyui
+Phone number: 123456789
+Password: 1
+Account number: 123
+Balance: 1234
+
+Name: cd
+Address: "c:\Users\sidbh\Documents\College\DSA\.vscode\Miniproject\"
+Phone number: ;
+Password: if
+Account number: ($?)
+Balance: {
+
+Name: gcc
+Address: miniprojectfinale.c
+Phone number: -o
+Password: miniprojec}
+Account number: }
+Balance: ;
+
